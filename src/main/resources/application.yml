@@ -1,0 +1,6 @@
+telegrambot:
+  botUsername: "bot"
+  botToken: 11111:aaaaa
+
+server:
+  port: 8180
